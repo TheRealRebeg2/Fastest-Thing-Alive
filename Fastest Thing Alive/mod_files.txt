@@ -1,1 +1,5 @@
+add /disk/bb3/#Sonic.ar.00
+add /disk/bb3/#Sonic.arl
+add /Edit/A/Sonic.prm.xml
+add /Edit/Sonic.prm.xml
 add mod.ini
